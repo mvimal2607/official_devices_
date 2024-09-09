@@ -1,16 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1725264034,
-      "size": 2989580186,
-      "filehash": "2ec72918086a5724731e3b16bcefdbb4",
-      "filename": "EverestOS-1.5-Lukla-lunaa-OFFICIAL-GAPPS-0800-20240902.zip",
-      "id": "662a23d0d715dd6a68bdc514625ed3d6fb2f6cce1ea19f6a5822098a92dd24d2",
+      "datetime": 1725873232,
+      "size": 2990086263,
+      "filehash": "cfd059337ba7918cd5b45df260a58a0e",
+      "filename": "EverestOS-1.6-Lukla-EOL-lunaa-OFFICIAL-GAPPS-1247-20240909.zip",
+      "id": "b45f26130cab174f62176b3d678af250e56d06e2d4e6bf0ce5d828351c036f0c",
       "romtype": "OFFICIAL",
-      "version": "1.5",
+      "version": "1.6",
       "maintainer": "Vimal",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/lunaa/EverestOS-1.5-Lukla-lunaa-OFFICIAL-GAPPS-0800-20240902.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/lunaa/EverestOS-1.6-Lukla-EOL-lunaa-OFFICIAL-GAPPS-1247-20240909.zip/download"
     }
   ]
 }
-
