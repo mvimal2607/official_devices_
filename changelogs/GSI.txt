@@ -1,0 +1,11 @@
+# EverestOS 1.6 GSI
+# Monday 9 September 2024
+
+changelog:
+- synced treble patches with latest
+- added phhsettings option to enable "restart annoying notifications" on boot
+- fixed device-specific settings now showing up in phhsettings
+- fixed battery mAh not showing correctly 
+- included lawnchair and launcher3 for quickswitch
+- fixed settings crash
+- included possible fix for LTE on some devices
